@@ -2536,27 +2536,3 @@
 	"50 years and over"	"50+"	"Twin"	"2"	"47 weeks"	"47"	2
 	"50 years and over"	"50+"	"Triplet"	"3"	"30 weeks"	"30"	3
 	"50 years and over"	"50+"	"Triplet"	"3"	"31 weeks"	"31"	6
-"---"
-"Dataset: Natality, 2007-2020"
-"Query Parameters:"
-"Year: 2020"
-"Group By: Age of Mother Year; Plurality or Multiple Birth; LMP Gestational Age Weekly"
-"Show Totals: False"
-"Show Zero Values: False"
-"Show Suppressed: False"
-"Calculate Rates Per: 1,000"
-"Population Option: No populations shown because rates were not selected."
-"---"
-"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
-"---"
-"Query Date: Jan 24, 2022 2:47:50 PM"
-"---"
-"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
-"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2020, on CDC"
-"WONDER Online Database, October 2021. Accessed at http://wonder.cdc.gov/natality-current.html on Jan 24, 2022 2:47:50 PM"
-"---"
-Messages:
-"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
-"---"
-Caveats:
-"1. Each birth record represents one liveborn infant."
